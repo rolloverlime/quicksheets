@@ -6,5 +6,5 @@
 - To get the newest version of Quick Sheets, simply download the QuickSheets_Data_Cleaning_Template.xlsm file above.
 - When cleaning a new document, always come back to this site and download the newest version of the template.
 ## How do you use Quick Sheets?
-- Follow the Quick Sheeets training on YouTube [to be completed on 14 Jan, 2019]
-- If you are a developer, you can find the technical information in the Documentation folder [to be completed on 14 Jan, 2019]
+- Follow the Quick Sheeets training on YouTube [to be completed, 14 Jan]
+- If you are a developer, you can find the technical information in the Documentation folder [to be completed, 14 Jan]
