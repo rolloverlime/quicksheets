@@ -7,4 +7,4 @@
 - When cleaning a new document, always come back to this site and download the newest version of the template.
 ## How do you use Quick Sheets?
 - Follow the Quick Sheeets training on YouTube [to be completed, 14 Jan]
-- For some general advice on data cleaning, see this article on data validations: bit.ly/2FH8cAc
+- For some general advice on data cleaning, see this article on data validations: www.bit.ly/2FH8cAc
